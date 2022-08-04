@@ -1,2 +1,3 @@
 # utkarsh_ipoint
-I'm trying to create a launcher who will excuted By terminal.
+this is a script to launch system application using commands.
+still in beta state
